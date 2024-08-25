@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lgbtq-connect/static/css/main.0ba6fe06.css",
+    "main.js": "/lgbtq-connect/static/js/main.7c1e4f9e.js",
+    "index.html": "/lgbtq-connect/index.html",
+    "main.0ba6fe06.css.map": "/lgbtq-connect/static/css/main.0ba6fe06.css.map",
+    "main.7c1e4f9e.js.map": "/lgbtq-connect/static/js/main.7c1e4f9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba6fe06.css",
+    "static/js/main.7c1e4f9e.js"
+  ]
+}
